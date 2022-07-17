@@ -8,3 +8,6 @@ Some description!
 
 Watch on Youtube.cls
 
+## Local Development
+
+1. Open index.html in your browser. 
